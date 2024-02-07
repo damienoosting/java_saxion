@@ -1,1 +1,1 @@
-this is one of multiple asignments for school
+asignment i made for saxion introduction programming class
